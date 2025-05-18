@@ -3,5 +3,7 @@ This C# application simulates the behavior of a simple kinematic mechanism, allo
 
 ## Skills Gained
 -Simulation Logic in C# – Developed algorithms to model real-world mechanical behavior.
+
 -Parameter-Driven Modeling – Implemented dynamic input handling to simulate various configurations.
+
 -MVP Pattern Application – Structured the app for better modularity and ease of future development.
